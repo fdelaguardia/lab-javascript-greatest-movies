@@ -45,7 +45,7 @@ const movies = [
     director: 'Steven Spielberg',
     duration: '3h 15min',
     genre: ['Biography', 'Drama', 'History'],
-    score: 8.9
+    3: 8.9
   },
   {
     title: 'Pulp Fiction',
